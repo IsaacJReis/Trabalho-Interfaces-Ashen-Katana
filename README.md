@@ -7,9 +7,7 @@ Gênero: Ação.
 
 Estilo(arte): Pixelart 2D
 
-Plataforma: PC por
-
-eu considerar, ser mais fácil a distribuição.
+Plataforma: PC por eu considerar, ser mais fácil a distribuição.
 
 Público Alvo: Jovens Adultos.
 
