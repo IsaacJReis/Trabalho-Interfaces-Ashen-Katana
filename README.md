@@ -36,3 +36,6 @@ Após perder a família, todo valor que ele considerava inegociável pelo visto 
 ### Paleta de cores(identidade visual): 
 
 Sombrio, roxo e azul escuro como cores análogas, preto e cinza como cores neutras e apoio, essas cores para passar um clima triste, sombrio, e ao mesmo tempo calmo e sereno, pois o personagem apesar de tudo e ter um ar sombrio, calmo, estratégico e sereno, não toma decisões a partir do impulso.
+
+# REFERENCIAS
+https://canva.link/83f5kr696wkyvax
