@@ -3,9 +3,13 @@ Trabalho de Interfaces Ashen Katana
 
 Concept
 
-Gênero: Ação.
+### Gênero
 
-Estilo(arte): Pixelart 2D
+Ação.
+
+### Estilo(arte): 
+
+Pixelart 2D
 
 Plataforma: PC por eu considerar, ser mais fácil a distribuição.
 
